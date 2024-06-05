@@ -3,11 +3,6 @@
 <h3 align="center">A passionate Junior Developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="XamrokulovDev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="XamrokulovDev"  </p>
-
 - 🔭 I’m currently working on **React js**
 
 - 🌱 I’m currently learning **Redux Toolkit**
@@ -45,8 +40,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
    </a>
 </p>
-
-[(https://activity-graph.herokuapp.com/graph?username=XamrokulovDev&&theme=xcode)](https://github.com/XamrokulovDev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XamrokulovDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="XamrokulovDev" /></p>
 
