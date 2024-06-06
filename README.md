@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Junior Developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working on **Web Site**
 
 - 🌱 I’m currently learning **Redux Toolkit**
 
